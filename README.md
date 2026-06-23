@@ -6,6 +6,8 @@ Your goal is to reach wave 30.
 
 The game and the source code is in itch.io page 
 
+The games showcase https://youtu.be/ZERNeHbhlYk
+
 I hope you like it.
 
 Made for Hack Club: The Game
