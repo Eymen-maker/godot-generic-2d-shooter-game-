@@ -8,7 +8,7 @@ The game and the source code is in itch.io page: https://turkenx.itch.io/generic
 
 The games showcase https://youtu.be/ZERNeHbhlYk
 
-also i didn't commit every time i updated the project (i didn't know) but support team said older versions would help so prove my work so i put them as well
+also i didn't commit every time i updated the project (i didn't know, sorry) but support team said older versions would help so prove my work so i put them as well
 
 I hope you like it.
 
